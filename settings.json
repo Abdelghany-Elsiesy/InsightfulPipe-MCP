@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__insightfulpipe__query_contexts",
+      "mcp__insightfulpipe__query_data",
+      "mcp__insightfulpipe__execute_action",
+      "mcp__mcp-registry__search_mcp_registry"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "insightfulpipe"
+  ]
+}
