@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "insightfulpipe": {
+      "command": "/bin/sh",
+      "args": ["-l", "-c", "npx -y mcp-remote https://main.insightfulmcp.com"]
+    }
+  }
+}
